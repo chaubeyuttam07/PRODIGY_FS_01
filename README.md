@@ -1,15 +1,10 @@
 <h1 align="center">USER AUTHENTICATION APPLICATION 🔒<h1>
   
-![Demo App](/frontend/public/5.png)
-
-(/frontend/public/4.png)
-
-(/frontend/public/3.png)
-
-(/frontend/public/2.png)
-
-(/frontend/public/1.png)
-
+![Demo Login](/frontend/public/5.png)
+![Demo create account](/frontend/public/4.png)
+![Demo verify mail ui](/frontend/public/3.png)
+![Demo verify mail](/frontend/public/2.png)
+![Demo reset mail](/frontend/public/1.png)
 
 About This Application:
 
