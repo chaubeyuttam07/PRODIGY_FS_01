@@ -1,4 +1,5 @@
 <h1 align="center">USER AUTHENTICATION APPLICATION 🔒<h1>
+  
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
 
