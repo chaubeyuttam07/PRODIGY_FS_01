@@ -1,6 +1,14 @@
 <h1 align="center">USER AUTHENTICATION APPLICATION 🔒<h1>
   
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App](/frontend/public/5.png)
+
+(/frontend/public/4.png)
+
+(/frontend/public/3.png)
+
+(/frontend/public/2.png)
+
+(/frontend/public/1.png)
 
 
 About This Application:
